@@ -1,0 +1,34 @@
+[
+{
+    "key": "value",
+    "nama": "ACH. BAHRUL MA'ARIP",
+    "nim": "e41231300",
+    "umur": 19,
+    "aktif": true,
+    "hobi": [
+        "sepakbola",
+        "gaming",
+        "coding"
+    ],
+    "pembimbing" : {
+        "pembimbing1" : "budi",
+        "pembimbing2" : "messi"
+    }
+},
+{
+    "key": "value",
+    "nama": "Messi",
+    "nim": "e41231300",
+    "umur": 19,
+    "aktif": true,
+    "hobi": [
+        "sepakbola",
+        "gaming",
+        "coding"
+    ],
+    "pembimbing" : {
+        "pembimbing1" : "budi",
+        "pembimbing2" : "messi"
+    }
+}
+]
